@@ -1,0 +1,10 @@
+com\example\demo\DemoApplication.class
+com\example\demo\Entities\ApiResponse.class
+com\example\demo\controller\TodoController.class
+com\example\demo\services\TodoService.class
+com\example\demo\Entities\Todo.class
+com\example\demo\services\UserService.class
+com\example\demo\controller\UserController.class
+com\example\demo\Entities\User.class
+com\example\demo\repository\TodoRepository.class
+com\example\demo\repository\UserRepository.class
